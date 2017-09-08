@@ -1,0 +1,7 @@
+recipe action1
+|downEightTimes
+|rightTwoTimes
+|upEightTimes
+recipe action2
+|action1
+|action1
