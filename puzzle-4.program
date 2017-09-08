@@ -1,0 +1,10 @@
+downFiveTimes
+save 0 as steps
+repeat if steps < 2
+|up
+|right
+|save getColor as firstColorSeen
+|down
+|setColor remember firstColorSeen
+|rightTwoTimes
+|save steps + 1 as steps
