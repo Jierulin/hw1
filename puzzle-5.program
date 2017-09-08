@@ -4,6 +4,7 @@ repeat if steps < 3
 |if getColor is blue
 ||downOneTimes
 |if getColor is red
-||upThreeTimes
+||upOneTimes
+|save steps + 1 as steps
 else
 |rightThreeTimes
