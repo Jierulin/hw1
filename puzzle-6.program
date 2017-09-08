@@ -1,0 +1,12 @@
+right
+save 0 as steps
+repeat if steps < 1
+|if getColor is blue
+||downThreeTimes
+|if getColor is red
+||upThreeTimes
+else
+|if getColor is blue
+||right
+|if getColor is red
+||left
