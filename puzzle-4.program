@@ -1,6 +1,6 @@
 downFiveTimes
 save 0 as steps
-repeat if steps < 2
+repeat
 |up
 |right
 |save getColor as firstColorSeen
