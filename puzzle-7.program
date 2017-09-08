@@ -1,0 +1,20 @@
+repeat if getColor isn't red
+|down
+else
+|rightTwoTimes
+repeat if getColor isn't red
+|up
+else
+|rightTwoTimes
+repeat if getColor isn't red
+|down
+else
+|rightTwoTimes
+repeat if getColor isn't red
+|up
+else
+|rightTwoTimes
+repeat if getColor isn't red
+|down
+else
+|right
