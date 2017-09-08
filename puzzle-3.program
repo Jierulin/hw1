@@ -1,0 +1,7 @@
+downTwoTimes
+save getColor as firstColorSeen
+rightTwoTimes
+downThreetimes
+setColor remember firstColorSeen
+rightTwoTimes
+up
