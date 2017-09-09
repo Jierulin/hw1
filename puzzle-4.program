@@ -5,7 +5,7 @@ downTwoTimes
 downTwoTimes
 down
 save 0 as steps
-repeat
+repeat if steps < 2
 |up
 |right
 |save getColor as firstColorSeen
