@@ -11,5 +11,6 @@ repeat
 |save getColor as firstColorSeen
 |down
 |setColor remember firstColorSeen
-|rightTwoTimes
+|right
+|right
 |save steps + 1 as steps
