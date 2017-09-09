@@ -1,5 +1,14 @@
-downSixTimes
-rightThreeTimes
-upTwoTimes
-rightTwoTimes
-downOneTimes
+recipe downThreeTimes
+|down
+|down
+|down
+downThreeTimes
+downThreeTimes
+right
+right
+right
+up
+up
+right
+right
+down
