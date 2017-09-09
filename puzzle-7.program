@@ -1,19 +1,23 @@
 repeat if getColor isn't red
 |down
 else
-|rightTwoTimes
+|right
+|right
 repeat if getColor isn't red
 |up
 else
-|rightTwoTimes
+|right
+|right
 repeat if getColor isn't red
 |down
 else
-|rightTwoTimes
+|right
+|right
 repeat if getColor isn't red
 |up
 else
-|rightTwoTimes
+|right
+|right
 repeat if getColor isn't red
 |down
 else
