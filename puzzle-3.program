@@ -1,7 +1,12 @@
-downTwoTimes
+down
+down
 save getColor as firstColorSeen
-rightTwoTimes
-downThreetimes
+right
+right
+down
+down
+down
 setColor remember firstColorSeen
-rightTwoTimes
+right
+right
 up
