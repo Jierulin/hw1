@@ -1,16 +1,20 @@
 right
-save 0 as steps
-repeat if steps < 1
-|if getColor is blue
-||down
-||down
-||down
-|if getColor is red
-||up
-||up
-||up
-else
+if getColor is blue
+|down
+|down
+|down
 |if getColor is blue
 ||right
-|if getColor is red
+|else
 ||left
+||down
+else
+|up
+|up
+|up
+|if getColor is blue
+||right
+||up
+|else
+||left
+||up
