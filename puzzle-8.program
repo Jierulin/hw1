@@ -1,4 +1,4 @@
-recipe action1
+recipe action
 |down
 |down
 |down
@@ -17,5 +17,8 @@ recipe action1
 |up
 |up
 |up
-action1
-action1
+|right
+|right
+action
+action
+action
