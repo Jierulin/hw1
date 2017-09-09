@@ -1,7 +1,21 @@
 recipe action1
-|downEightTimes
-|rightTwoTimes
-|upEightTimes
-recipe action2
-|action1
-|action1
+|down
+|down
+|down
+|down
+|down
+|down
+|down
+|down
+|right
+|right
+|up
+|up
+|up
+|up
+|up
+|up
+|up
+|up
+action1
+action1
