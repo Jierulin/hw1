@@ -1,4 +1,9 @@
-downFiveTimes
+recipe downTwoTimes
+|down
+|down
+downTwoTimes
+downTwoTimes
+down
 save 0 as steps
 repeat
 |up
