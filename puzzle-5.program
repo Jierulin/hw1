@@ -1,10 +1,13 @@
 save 0 as steps
 repeat if steps < 3
-|rightTwoTimes
+|right
+|right
 |if getColor is blue
-||downOneTimes
+||down
 |if getColor is red
-||upOneTimes
+||up
 |save steps + 1 as steps
 else
-|rightThreeTimes
+|right
+|right
+|right
