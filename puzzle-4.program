@@ -4,8 +4,8 @@ recipe downTwoTimes
 downTwoTimes
 downTwoTimes
 down
-save 0 as steps
-repeat if steps < 2
+save 0 as sequence
+repeat if sequence < 2
 |up
 |right
 |save getColor as firstColorSeen
@@ -13,4 +13,4 @@ repeat if steps < 2
 |right
 |setColor remember firstColorSeen
 |right
-|save steps + 1 as steps
+|save sequence + 1 as sequence
