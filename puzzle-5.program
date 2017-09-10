@@ -1,12 +1,12 @@
-save 0 as steps
-repeat if steps < 3
+save 0 as sequence
+repeat if sequence < 3
 |right
 |right
 |if getColor is blue
 ||down
 |if getColor is red
 ||up
-|save steps + 1 as steps
+|save sequence + 1 as sequence
 else
 |right
 |right
