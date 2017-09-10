@@ -6,7 +6,7 @@ right
 down
 down
 down
-setColor remember firstColorSeen
 right
+setColor remember firstColorSeen
 right
 up
